@@ -6,6 +6,7 @@
 ## Lv2
 
 - [고득점 키트 > 해시 > 전화번호 목록](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_해시_전화번호%20목록.md)
+- [고득점 키트 > 해시 > 위장](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_해시_위장.md)
 
 ## Lv3
 
