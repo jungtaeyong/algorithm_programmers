@@ -3,13 +3,9 @@
 
 
 
-## 고득점 키트 문제
-
-- 
-
 ## Lv2
 
-
+- [고득점 키트 > 해시 > 전화번호 목록](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_해시_전화번호%20목록.md)
 
 ## Lv3
 
