@@ -10,6 +10,7 @@
 - [고득점 키트 > 스택&큐 > 주식가격](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_스택%26큐_주식가격.md)
 - [고득점 키트 > 스택&큐 > 기능개발](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_스택%26큐_기능개발.md)
 - [고득점 키트 > 스택&큐 > 다리를 지나는 트럭](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_스택%26큐_다리를%20지나는%20트럭.md)
+- [고득점 키트 > 스택&큐 > 프린터](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_스택%26큐_프린터.md)
 
 ## Lv3
 
