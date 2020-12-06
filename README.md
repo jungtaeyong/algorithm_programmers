@@ -16,6 +16,7 @@
 ## Lv3
 
 - [고득점 키트 > 해시 > 베스트앨범](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_해시_베스트앨범.md)
+- [고득점 키트 > 힙 > 디스크 컨트롤러](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_힙_디스크%20컨트롤러.md)
 
 ## Lv4
 
