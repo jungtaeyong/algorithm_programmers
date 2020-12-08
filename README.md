@@ -12,6 +12,7 @@
 - [고득점 키트 > 스택&큐 > 다리를 지나는 트럭](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_스택%26큐_다리를%20지나는%20트럭.md)
 - [고득점 키트 > 스택&큐 > 프린터](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_스택%26큐_프린터.md)
 - [고득점 키트 > 힙 > 더 맵게](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_힙_더%20맵게.md)
+- [고득점 키트 > 정렬 > 가장 큰 수](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_정렬_가장%20큰%20수.md)
 
 ## Lv3
 
