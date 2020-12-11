@@ -23,6 +23,7 @@
 - [고득점 키트 > 해시 > 베스트앨범](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_해시_베스트앨범.md)
 - [고득점 키트 > 힙 > 디스크 컨트롤러](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_힙_디스크%20컨트롤러.md)
 - [고득점 키트 > 힙 > 이중우선순위큐](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_힙_이중우선순위큐.md)
+- [고득점 키트 > 탐욕법 > 섬 연결하기](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_탐욕법_섬%20연결하기.md)
 
 ## Lv4
 
