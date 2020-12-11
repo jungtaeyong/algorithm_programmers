@@ -16,6 +16,7 @@
 - [고득점 키트 > 정렬 > H-Index](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_정렬_H-Index.md)
 - [고득점 키트 > 탐욕법 > 큰 수 만들기](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_탐욕법_큰%20수%20만들기.md)
 - [고득점 키트 > 탐욕법 > 조이스틱](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_탐욕법_조이스틱.md)
+- [고득점 키트 > 탐욕법 > 구명보트](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_탐욕법_구명보트.md)
 
 ## Lv3
 
