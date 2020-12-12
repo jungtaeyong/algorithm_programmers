@@ -25,6 +25,7 @@
 - [고득점 키트 > 힙 > 이중우선순위큐](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_힙_이중우선순위큐.md)
 - [고득점 키트 > 탐욕법 > 섬 연결하기](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_탐욕법_섬%20연결하기.md)
 - [고득점 키트 > 탐욕법 > 단속카메라](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_탐욕법_단속카메라.md)
+- [고득점 키트 > 그래프 > 가장 먼 노드](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_그래프_가장%20먼%20노드.md)
 
 ## Lv4
 
