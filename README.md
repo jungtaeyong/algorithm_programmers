@@ -27,6 +27,7 @@
 - [고득점 키트 > 탐욕법 > 단속카메라](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_탐욕법_단속카메라.md)
 - [고득점 키트 > 그래프 > 가장 먼 노드](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_그래프_가장%20먼%20노드.md)
 - [고득점 키트 > 그래프 > 순위](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_그래프_순위.md)
+- [고득점 키트 > 이분탐색 > 입국심사](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_이분탐색_입국심사.md)
 
 ## Lv4
 
