@@ -31,3 +31,4 @@
 
 ## Lv4
 
+- [고득점 키트 > 이분탐색 > 징겁다리](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_이분탐색_징검다리.md)
