@@ -18,6 +18,7 @@
 - [고득점 키트 > 탐욕법 > 조이스틱](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_탐욕법_조이스틱.md)
 - [고득점 키트 > 탐욕법 > 구명보트](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_탐욕법_구명보트.md)
 - [고득점 키트 > 완전탐색 > 소수찾기](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_완전탐색_소수찾기.md)
+- [고득점 키트 > 완전탐색 > 카펫](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_완전탐색_카펫.md)
 
 ## Lv3
 
