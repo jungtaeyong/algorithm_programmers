@@ -35,6 +35,7 @@
 - [고득점 키트 > 동적계획법 > 정수 삼각형](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_동적계획법_정수%20삼각형.md)
 - [고득점 키트 > 동적계획법 > 등굣길](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_동적계획법_등굣길.md)
 - [고득점 키트 > DFS&BFS > 네트워크](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_DFS&BFS_네트워크.md)
+- [고득점 키트 > DFS&BFS > 단어 변환](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_DFS&BFS_단어%20변환.md)
 
 ## Lv4
 
