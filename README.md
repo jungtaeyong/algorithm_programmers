@@ -31,6 +31,7 @@
 - [고득점 키트 > 그래프 > 순위](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_그래프_순위.md)
 - [고득점 키트 > 이분탐색 > 입국심사](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_이분탐색_입국심사.md)
 - [고득점 키트 > 동적계획법 > N으로 표현](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_동적계획법_N으로%20표현.md)
+- [고득점 키트 > 동적계획법 > 정수 삼각형](https://github.com/jungtaeyong/algorithm_programmers/blob/main/고득점%20키트_동적계획법_정수%20삼각형.md)
 
 ## Lv4
 
